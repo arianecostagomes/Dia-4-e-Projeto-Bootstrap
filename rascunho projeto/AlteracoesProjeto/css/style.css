@@ -1,0 +1,40 @@
+.coluna{
+	/*height: 30px;*/
+	/*background-color: red;*/
+	text-align: center;
+}
+
+.espacamento{
+	padding-top: 5%;
+/*	margin-bottom: 10%;
+*/}
+
+.alinhamento{
+	display: flex;
+}
+
+a{
+	font-family: 'Dancing Script', cursive;
+ 	font-style: bold;
+	color: black;
+	font-size: 150%;
+}
+
+h2{
+	font-family: 'Dancing Script', cursive;
+ 	font-style: bold;
+	color: black;
+	font-size: 190%;
+}
+nav{
+	box-shadow: 1px 0px 10px #e83e8c;
+}
+
+img{
+	background-image: 100%;
+}
+
+
+section{
+	padding-top: 5%;
+}	
